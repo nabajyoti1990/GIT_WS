@@ -1,3 +1,11 @@
 Hello,
 This file name is 1111
+<<<<<<< Updated upstream
 This is line 1 made at Github GUI
+=======
+<<<<<<< HEAD
+this is 1st line of 1111
+=======
+This is line 1 made at Github GUI
+>>>>>>> f7f5bc0ecd3415f5306fdc765a9beb0d17f298e4
+>>>>>>> Stashed changes
